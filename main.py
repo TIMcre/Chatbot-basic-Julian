@@ -12,7 +12,7 @@ if dayinfo == "good":
     print(random.choice(goodday_funktion))
 
 elif dayinfo == "bad":
-        print(random.choice(badday_funktion))
+    print(random.choice(badday_funktion))
 
 highlite=input("What was your Highlite?\n")
 highliteanswer=input("Why was that your Highlite?\n")
